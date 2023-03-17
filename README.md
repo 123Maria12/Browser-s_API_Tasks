@@ -1,1 +1,1 @@
-# module10_homework
+# Browser's API tasks
